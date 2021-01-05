@@ -1,0 +1,17 @@
+dog, Daisy, 3, female, tiny
+dog, Charlie, 2, male, medium
+cat, Coco, 4, female, false
+cat, Bella, 1, female, false
+duck, Daisy Duck, 4, female, 4
+dog, Lola, 1, female, medium
+duck, Rockerduck, 1, male, 6
+dog, Archie, 2, male, large
+cat, Shadow, 1, male, false
+duck, Brigitta MacBridge, 3, female, 1
+dog, Bella, 2, female, large
+dog, Fido, 4, male, midsize
+dog, Bailey, 3, male, giant
+dog, Bonnie, 1, female, small
+duck, Goldie O'Gilt, 2, female, 11
+cat, Leo, 3, male, false
+duck, Bum Bum Ghigno, 2, male, 9

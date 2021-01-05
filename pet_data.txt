@@ -1,0 +1,55 @@
+dog, Daisy, 3, Female, tiny
+Dog, Charlie, 2, male, medium
+dog, Coco, 5, Female, medium
+cat, Coco, 4, female, false
+Duck, Evroniani, 11, male, 4
+Duck, Roberta, 12, Female, 7
+Dog, Molly, 6, female, giant
+Cat, Bella, 1, female, false
+Duck, Daisy Duck, 4, female, 4
+Dog, Lola, 1, Female, medium
+Duck, Velma Vanderduck, 12, Female, 3
+Cat, Toby, 8, Male, false
+Duck, Rockerduck, 1, Male, 6
+Dog, Ollie, 9, female, tiny
+Dog, Tilly, 5, Female, large
+cat, Max, 7, male, false
+Cat, Luna, 12, Female, false
+Dog, Lucy, 8, female, small
+Dog, Archie, 2, Male, large
+cat, Shadow, 1, Male, false
+duck, Brigitta MacBridge, 3, Female, 1
+Duck, Emily Quackfaster, 5, female, 6
+Dog, Bella, 2, female, large
+cat, Gloria, 11, Female, true
+Dog, Frankie, 9, male, small
+Dog, Ruby, 12, female, tiny
+dog, Rosie, 7, Female, large
+Cat, Jasper, 5, Male, false
+dog, Fido, 4, Male, midsize
+cat, Oscar, 7, Male, true
+Duck, Howard Rockerduck, 7, male, 10
+duck, Flintheart Glomgold, 5, Male, 4
+duck, Belle Duck , 9, female, 9
+dog, Bailey, 3, male, giant
+Cat, Charlie, 11, male, true
+duck, Princess Oona, 6, Female, 2
+Duck, Pandy Pap , 9, Male, 5
+cat, Ollie, 11, male, true
+dog, Toby, 5, male, medium
+dog, Bonnie, 1, Female, small
+Duck, Grand Mogul, 9, Male, 3
+Duck, Magica De Spell, 10, male, 6
+Dog, Buddy, 12, male, giant
+duck, Katie Mallard, 9, female, 5
+duck, June Rockerduck, 7, Female, 13
+duck, Gotrocks, 9, male, 13
+duck, Umperio Bogarto, 10, male, 3
+dog, Oscar, 5, Male, midsize
+Duck, Goldie O'Gilt, 2, female, 11
+cat, Simba, 5, male, true
+cat, Leo, 3, Male, false
+duck, Bum Bum Ghigno, 2, male, 9
+duck, Reginella, 8, Female, 11
+duck, Hustler Duck, 12, male, 4
+Duck, Dickie Duck, 11, male, 7
